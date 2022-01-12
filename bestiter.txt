@@ -1,0 +1,6 @@
+min val loss: 0.3500564919466535 at iter: 119
+min val loss: 0.3334871533637221 at iter: 179
+min val loss: 0.3322356637584395 at iter: 239
+min val loss: 0.32264180557413963 at iter: 299
+min val loss: 0.32203137788514585 at iter: 479
+min val loss: 0.31991167300873746 at iter: 539
